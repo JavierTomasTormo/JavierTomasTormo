@@ -79,7 +79,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,gmail,instagram,docker,github,vscode,eclipse,nginx,wordpress,debian,mint,linux,windows,html,css,java,js,php,md,mongodb,mysql,jquery,powershell&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,aws,discord,gmail,instagram,docker,github,vscode,eclipse,wordpress,debian,mint,linux,windows,html,css,java,js,php,md,mongodb,mysql,jquery,powershell&perline=12" />
   </a>
 </p>
 
