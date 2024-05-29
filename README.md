@@ -11,12 +11,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -76,12 +70,32 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
+
+<!-- Redes Sociales -->
+<h2 align="center">Redes Sociales</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,gmail,instagram,docker,github,vscode,eclipse,wordpress,debian,mint,linux,windows,html,css,java,js,php,md,mongodb,mysql,jquery,powershell&perline=12" />
+    <img src="https://skillicons.dev/icons?i=discord,gmail,instagram&perline=3" />
   </a>
 </p>
+
+<!-- Lenguajes de Programación -->
+<h2 align="center">Lenguajes de Programación</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,java,js,php,md&perline=6" />
+  </a>
+</p>
+
+<!-- Tecnologías -->
+<h2 align="center">Tecnologías</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,github,vscode,eclipse,wordpress,debian,mint,linux,windows,mongodb,mysql,jquery,powershell,bash&perline=8" />
+  </a>
+</p>
+
 
 
 <!-- Connect with me -->
@@ -109,6 +123,10 @@
   
 </div>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
+</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
