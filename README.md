@@ -47,9 +47,11 @@
 </table>
 <!--- stats (end) -->
 
-<!--- activityGraph (start) -->
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JavierTomasTormo&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--- activityGraph (start)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JavierTomasTormo&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!--- ActivityGraph (end) -->
+
+[![JavierTomasTormo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JavierTomasTormo)](https://github.com/JavierTomasTormo/github-readme-activity-graph)
 
 
 </p>        
