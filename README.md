@@ -66,19 +66,13 @@
 </div>
 
 
-<!-- Redes Sociales -->
-<h2 align="center">Redes Sociales</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,gmail,instagram&perline=3" />
-  </a>
-</p>
+
 
 <!-- Lenguajes de Programación -->
 <h2 align="center">Lenguajes de Programación</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,js,php,md&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,js,php,md,ts&perline=3" />
   </a>
 </p>
 
@@ -86,10 +80,16 @@
 <h2 align="center">Tecnologías</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,docker,github,vscode,eclipse,wordpress,debian,mint,linux,windows,mongodb,mysql,jquery,powershell,bash&perline=8" />
+    <img src="https://skillicons.dev/icons?i=prisma,nodejs,git,aws,docker,github,wordpress,debian,mint,linux,windows,mongodb,mysql,jquery,powershell,bash&perline=8&theme=light" />
   </a>
 </p>
-
+<!-- Otros -->
+<h2 align="center">Otros</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,gmail,instagram,vscode,eclipse&perline=3" />
+  </a>
+</p>
 
 
 <!-- Connect with me -->
