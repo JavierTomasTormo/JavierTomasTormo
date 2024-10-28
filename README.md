@@ -20,7 +20,7 @@
 
 
 <!--Intro start-->
-- 🔭 Ahora estoy aprendiendo **Angular 18**
+- 🔭 Ahora estoy aprendiendo **Prisma, TypeORM, Express, Angular 18**
 
 - 📫 Tomate la libertad de contactarme **javiertomastormo@gmail.com**
 
