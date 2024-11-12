@@ -58,38 +58,42 @@
 <!--- stats (end) -->
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que he trabajado👨🏻‍💻</h2></summary>
-  </ul>
+<!-- Encabezado principal sin borde inferior -->
+<div align="center">
+  <h1>👋 ¡Hola! Soy Javier</h1>
+  <p>Desarrollador apasionado por el código limpio, las tecnologías modernas y los proyectos creativos 🚀</p> 
 </div>
 
 
-
-
-<!-- Lenguajes de Programación -->
-<h2 align="center">Lenguajes de Programación</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,js,php,md,ts&perline=3" />
-  </a>
-</p>
-
-<!-- Tecnologías -->
-<h2 align="center">Tecnologías</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prisma,nodejs,git,aws,docker,github,wordpress,debian,mint,linux,windows,mongodb,mysql,jquery,powershell,bash&perline=8&theme=light" />
-  </a>
-</p>
-<!-- Otros -->
-<h2 align="center">Otros</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,gmail,instagram,vscode,eclipse&perline=3" />
-  </a>
-</p>
+<!-- Tecnologías principales -->
+<h2 align="center">Tecnologías en las que he trabajado 👨🏻‍💻</h2>
+  <p align="center">Aquí encontrarás algunas de las herramientas, lenguajes y plataformas con los que he trabajado en mis proyectos.</p>
+    <!-- Lenguajes de Programación -->
+      <h3 align="center">💻 Lenguajes de Programación</h3> 
+        <p align="center">
+            <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,java,js,php,md,ts&perline=6&theme=light" /> </a>
+        </p>  
+    <!-- Tecnologías y Frameworks -->
+      <h3 align="center">⚙️ Tecnologías y Frameworks</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=prisma,nodejs,git,aws,docker,github,wordpress,mongodb,mysql,jquery&perline=8&theme=light" />
+        </a> 
+      </p> 
+      <!-- Sistemas Operativos y Herramientas --> 
+        <h3 align="center">🖥️ Sistemas Operativos y Herramientas</h3> 
+          <p align="center"> 
+            <a href="https://skillicons.dev"> 
+              <img src="https://skillicons.dev/icons?i=debian,mint,linux,windows,powershell,bash&perline=6&theme=light" /> 
+            </a> 
+          </p> 
+      <!-- Otras Herramientas --> 
+        <h3 align="center">🔧 Otras Herramientas</h3> 
+          <p align="center"> 
+            <a href="https://skillicons.dev"> 
+              <img src="https://skillicons.dev/icons?i=discord,gmail,instagram,vscode,eclipse&perline=5&theme=light" /> 
+            </a> 
+          </p>
 
 
 <!-- Connect with me -->
