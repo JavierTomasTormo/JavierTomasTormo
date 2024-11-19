@@ -34,14 +34,16 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JavierTomasTormo&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
+  <!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JavierTomasTormo&theme=dark&show_icons=true&count_private=true" /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JavierTomasTormo&show_icons=true&theme=dracula"/>
+  <br/>
   <!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JavierTomasTormo&theme=dark&hide_border=false" /> -->
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JavierTomasTormo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <!-- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JavierTomasTormo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierTomasTormo&layout=compact&theme=dracula"/>
   
   </td>
 </tr>
@@ -55,8 +57,19 @@
 [![JavierTomasTormo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JavierTomasTormo)](https://github.com/JavierTomasTormo/github-readme-activity-graph)
 
 
-</p>        
+</p>     
+
 <!--- stats (end) -->
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- Encabezado principal sin borde inferior -->
