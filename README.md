@@ -21,7 +21,7 @@
 
 <!--Intro start-->
 <!-- - 🔭 Ahora estoy aprendiendo **Prisma, TypeORM, Express, Angular 18** -->
-- 🔭 Ahora estoy aprendiendo **Vue3, Laravel, Spring Boot**
+- 🔭 Ahora estoy aprendiendo **Vue3, React, Laravel, Spring Boot**
 
 - 📫 Tomate la libertad de contactarme **javiertomastormo@gmail.com**
 
