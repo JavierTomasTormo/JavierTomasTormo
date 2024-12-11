@@ -75,7 +75,7 @@
 <!-- Encabezado principal sin borde inferior -->
 <div align="center">
   <h1>👋 ¡Hola! Soy Javier</h1>
-  <p>Desarrollador apasionado por el código limpio, las tecnologías modernas y los proyectos creativos 🚀</p> 
+  <p>Desarrollador apasionado por las metodologías ágiles y el Clean Code, las tecnologías modernas y los proyectos creativos 🚀</p> 
 </div>
 
 
@@ -85,20 +85,20 @@
     <!-- Lenguajes de Programación -->
       <h3 align="center">💻 Lenguajes de Programación</h3> 
         <p align="center">
-            <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,java,js,php,md,ts&perline=6&theme=light" /> </a>
+            <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,ts,java,php,html,css,md,powershell,bash&perline=6&theme=light" /> </a>
         </p>  
     <!-- Tecnologías y Frameworks -->
       <h3 align="center">⚙️ Tecnologías y Frameworks</h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=prisma,nodejs,git,aws,docker,github,wordpress,mongodb,mysql,jquery&perline=8&theme=light" />
+          <img src="https://skillicons.dev/icons?i=angular,vue,prisma,nodejs,mysql,mongodb,docker,git,github,aws,wordpress,jquery&perline=8&theme=light" />
         </a> 
       </p> 
       <!-- Sistemas Operativos y Herramientas --> 
         <h3 align="center">🖥️ Sistemas Operativos y Herramientas</h3> 
           <p align="center"> 
             <a href="https://skillicons.dev"> 
-              <img src="https://skillicons.dev/icons?i=debian,mint,linux,windows,powershell,bash&perline=6&theme=light" /> 
+              <img src="https://skillicons.dev/icons?i=debian,mint,linux,windows&perline=6&theme=light" /> 
             </a> 
           </p> 
       <!-- Otras Herramientas --> 
