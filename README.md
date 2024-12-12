@@ -105,7 +105,7 @@
         <h3 align="center">🔧 Otras Herramientas</h3> 
           <p align="center"> 
             <a href="https://skillicons.dev"> 
-              <img src="https://skillicons.dev/icons?i=discord,gmail,instagram,vscode,eclipse&perline=5&theme=light" /> 
+              <img src="https://skillicons.dev/icons?i=discord,gmail,vscode,eclipse&perline=5&theme=light" /> 
             </a> 
           </p>
 
