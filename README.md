@@ -112,6 +112,7 @@
         <img src="https://skillicons.dev/icons?i=linux,windows&perline=6&theme=light" />
     </a>
 </p>
+
 ## 🛠️ Otros Conceptos
 
    <b><h3 align="center">🚀REST API's  |  🏗️MVC  |  💡Clean Code  |  📋Scrum</h3></b><br/>
