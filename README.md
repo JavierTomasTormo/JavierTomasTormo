@@ -109,7 +109,7 @@
 ## 🖥️ Sistemas Operativos
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,windows&perline=6&theme=light" />
+        <img src="https://skillicons.dev/icons?i=linux,windows,debian,mint&perline=6&theme=light" />
     </a>
 </p>
 
