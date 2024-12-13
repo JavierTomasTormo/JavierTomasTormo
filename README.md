@@ -78,36 +78,51 @@
   <p>Desarrollador apasionado por las metodologías ágiles y el Clean Code, las tecnologías modernas y los proyectos creativos 🚀</p> 
 </div>
 
-
 <!-- Tecnologías principales -->
 <h2 align="center">Tecnologías en las que he trabajado 👨🏻‍💻</h2>
-  <p align="center">Aquí encontrarás algunas de las herramientas, lenguajes y plataformas con los que he trabajado en mis proyectos.</p>
-    <!-- Lenguajes de Programación -->
-      <h3 align="center">💻 Lenguajes de Programación</h3> 
-        <p align="center">
-            <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,ts,java,php,html,css,md,powershell,bash&perline=6&theme=light" /> </a>
-        </p>  
-    <!-- Tecnologías y Frameworks -->
-      <h3 align="center">⚙️ Tecnologías y Frameworks</h3>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=angular,vue,prisma,nodejs,mysql,mongodb,docker,git,github,aws,wordpress,jquery&perline=8&theme=light" />
-        </a> 
-      </p> 
-      <!-- Sistemas Operativos y Herramientas --> 
-        <h3 align="center">🖥️ Sistemas Operativos y Herramientas</h3> 
-          <p align="center"> 
-            <a href="https://skillicons.dev"> 
-              <img src="https://skillicons.dev/icons?i=debian,mint,linux,windows&perline=6&theme=light" /> 
-            </a> 
-          </p> 
-      <!-- Otras Herramientas --> 
-        <h3 align="center">🔧 Otras Herramientas</h3> 
-          <p align="center"> 
-            <a href="https://skillicons.dev"> 
-              <img src="https://skillicons.dev/icons?i=discord,gmail,vscode,eclipse&perline=5&theme=light" /> 
-            </a> 
-          </p>
+<p align="center">Aquí encontrarás algunas de las herramientas, lenguajes y plataformas con los que he trabajado en mis proyectos.</p>
+
+## 💻 Lenguajes de Programación
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,java,php,html,css,scss&perline=6&theme=light" />
+    </a>
+</p>
+<!-- <p align="center">JavaScript, TypeScript, Java, PHP, HTML5, CSS3, SCSS</p> -->
+
+## ⚙️ Tecnologías y Frameworks
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=express,prisma,typeorm,angular,nodejs,mysql,mongodb,docker,git,github&perline=6&theme=light" />
+    </a>
+</p>
+<!-- <p align="center">Express, Prisma, TypeORM, Angular, Node.js, MySQL, MongoDB, Docker, Git, GitHub</p> -->
+
+## 🔧 Librerías y Herramientas
+<p align="center">
+    <a href="https://skillicons.dev">
+       <img align="center" src="https://skillicons.dev/icons?i=jwt,npm,postman&perline=6&theme=light" />  <img src="https://img.icons8.com/emoji/48/000000/key-emoji.png" alt="jwt" width="40" height="40" target="_blank"/>
+    </a>
+</p>
+<!-- <p align="center">JWT, npm, Postman</p> -->
+
+## 🖥️ Sistemas Operativos
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,windows&perline=6&theme=light" />
+    </a>
+</p>
+## 🛠️ Otros Conceptos
+
+   <b><h3 align="center">🚀REST API's  |  🏗️MVC  |  💡Clean Code  |  📋Scrum</h3></b><br/>
+
+
+
+
+
+
+
+
 
 
 <!-- Connect with me -->
