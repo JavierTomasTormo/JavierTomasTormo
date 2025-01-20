@@ -143,7 +143,9 @@
 
 <!--profile visit count-->
 <div align="center">
-    [![](https://visitcount.itsvg.in/api?id=JavierTomasTormo&label=Visitas&color=11&icon=6&pretty=false)](https://visitcount.itsvg.in)
+  
+[![](https://visitcount.itsvg.in/api?id=JavierTomasTormo&label=Visitas&color=11&icon=6&pretty=false)](https://visitcount.itsvg.in)
+
 </div>
 
 
