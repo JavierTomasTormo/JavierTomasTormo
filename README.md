@@ -21,7 +21,7 @@
 
 <!--Intro start-->
 <!-- - 🔭 Ahora estoy aprendiendo **Prisma, TypeORM, Express, Angular 18** -->
-- 🔭 Ahora estoy aprendiendo **Vue3, React, Laravel, Spring Boot**
+- 🔭 Ahora estoy aprendiendo **Angular, Next, SpringBoot, Express, Django, Postgre**
 
 - 📫 Tomate la libertad de contactarme **javiertomastormo@gmail.com**
 
@@ -143,9 +143,7 @@
 
 <!--profile visit count-->
 <div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=JavierTomasTormo&label=Visitas&color=11&icon=6&pretty=false)](https://visitcount.itsvg.in)
-  
+    [![](https://visitcount.itsvg.in/api?id=JavierTomasTormo&label=Visitas&color=11&icon=6&pretty=false)](https://visitcount.itsvg.in)
 </div>
 
 
