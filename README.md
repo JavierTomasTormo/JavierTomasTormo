@@ -85,31 +85,28 @@
 ## 💻 Lenguajes de Programación
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,java,php,html,css,scss&perline=6&theme=light" />
+        <img src="https://skillicons.dev/icons?i=js,ts,java,php,html,css,scss, md&perline=6&theme=light" />
     </a>
 </p>
-<!-- <p align="center">JavaScript, TypeScript, Java, PHP, HTML5, CSS3, SCSS</p> -->
 
 ## ⚙️ Tecnologías y Frameworks
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=express,prisma,typeorm,angular,nodejs,mysql,mongodb,docker,git,github&perline=6&theme=light" />
+        <img src="https://skillicons.dev/icons?i=spring,express,angular,django,nextjs,laravel,react,prisma,nodejs,postgres,mysql,mongodb,docker,git,github&perline=5&theme=light" />
     </a>
 </p>
-<!-- <p align="center">Express, Prisma, TypeORM, Angular, Node.js, MySQL, MongoDB, Docker, Git, GitHub</p> -->
 
 ## 🔧 Librerías y Herramientas
 <p align="center">
     <a href="https://skillicons.dev">
-       <img align="center" src="https://skillicons.dev/icons?i=jwt,npm,postman&perline=6&theme=light" />  <img src="https://img.icons8.com/emoji/48/000000/key-emoji.png" alt="jwt" width="40" height="40" target="_blank"/>
+       <img align="center" src="https://skillicons.dev/icons?i=npm,postman,gradle,maven,pnpm,redis,redux,tailwind&perline=4&theme=light" />  <img src="https://img.icons8.com/emoji/48/000000/key-emoji.png" alt="jwt" width="40" height="40" target="_blank"/>
     </a>
 </p>
-<!-- <p align="center">JWT, npm, Postman</p> -->
 
 ## 🖥️ Sistemas Operativos
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,windows,debian,mint&perline=6&theme=light" />
+        <img src="https://skillicons.dev/icons?i=linux,windows,mint,bash,powershell&perline=6&theme=light" />
     </a>
 </p>
 
