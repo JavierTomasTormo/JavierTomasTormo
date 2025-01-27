@@ -110,7 +110,7 @@
 ## ⚙️ Tecnologías y Frameworks
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring,angular,express,django,nextjs,vue,laravel,react,prisma,nodejs,postgres,mysql,mongodb,docker,git,github&perline=8&theme=light" />
+        <img src="https://skillicons.dev/icons?i=spring,angular,express,django,nextjs,vue,laravel,react,prisma,nodejs,postgres,mysql,mongodb,docker,git,github&perline=9&theme=light" />
     </a>
 </p>
 <p align="center">
