@@ -110,15 +110,16 @@
 ## ⚙️ Tecnologías y Frameworks
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring,express,angular,django,nextjs,laravel,react,prisma,nodejs,postgres,mysql,mongodb,docker,git,github&perline=8&theme=light" />
+        <img src="https://skillicons.dev/icons?i=spring,angular,express,django,nextjs,vue,laravel,react,prisma,nodejs,postgres,mysql,mongodb,docker,git,github&perline=8&theme=light" />
     </a>
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-    <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
     <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+    <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
     <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
